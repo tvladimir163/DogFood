@@ -87,7 +87,6 @@ const config = {
    baseUrl: 'https://api.react-learning.ru',
    headers: {
       'content-type': 'application/json',
-      // Authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzZhNTEwNjU5Yjk4YjAzOGY3NzljZjIiLCJncm91cCI6Imdyb3VwLTciLCJpYXQiOjE2Njc5MTE5NDUsImV4cCI6MTY5OTQ0Nzk0NX0.zpBHDTZ-54ViKPHGwvY1FIRGcZCFohP0S-CxPn4T5z4'
    }
 }
 
